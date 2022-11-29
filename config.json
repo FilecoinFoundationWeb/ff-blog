@@ -6,24 +6,24 @@
   },
   "links_replacements": [
     {
-      "target": "\"register-now.html\"",
-      "replace_by": "\"/register-now\""
+      "target": "\"401.html\"",
+      "replace_by": "\"/401\""
     },
     {
-      "target": "\"faq.html\"",
-      "replace_by": "\"/faq\""
+      "target": "\"detail_authors.html\"",
+      "replace_by": "\"/detail_authors\""
     },    
     {
-      "target": "\"covid-policy.html\"",
-      "replace_by": "\"/covid-policy\""
+      "target": "\"detail_blog.html\"",
+      "replace_by": "\"/detail_blog\""
     },
     {
-      "target": "\"speakers.html\"",
-      "replace_by": "\"/speakers\""
+      "target": "\"detail_categories.html\"",
+      "replace_by": "\"/detail_categories\""
     },
     {
-      "target": "\"travel.html\"",
-      "replace_by": "\"/travel\""
+      "target": "\"search.html\"",
+      "replace_by": "\"/search\""
     },
     {
       "target": "\"index.html\"",
@@ -46,36 +46,36 @@
   ],
   "transforms": [
     {
-      "name": "register-now",
-      "filepath": "register-now.html",
+      "name": "401",
+      "filepath": "401.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
     },
     {
-      "name": "faq",
-      "filepath": "faq.html",
+      "name": "detail_authors",
+      "filepath": "detail_authors.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
     },
     {
-      "name": "speakers",
-      "filepath": "speakers.html",
+      "name": "detail_blog",
+      "filepath": "detail_blog.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
     },
     {
-      "name": "covid-policy",
-      "filepath": "covid-policy.html",
+      "name": "detail_categories",
+      "filepath": "detail_categories.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
     },
     {
-      "name": "travel",
-      "filepath": "travel.html",
+      "name": "search",
+      "filepath": "search.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
